@@ -10,7 +10,7 @@ Give superpowers to your thumbnails!
 
 Add a format to automatically convert `png` to `jpg` files.
 
-- `quality` is supported by this feature (set to 90 by default)
+- `quality` is supported by this feature (set to 90 by default).
 - `format` as param will override the config `thumbs.format`
 - The `png` thumbnail file is not deleted by the conversion process. If you are deleting this plugin, the cached `png` thumbnail file will be used instead.
 
