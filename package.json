@@ -1,0 +1,8 @@
+{
+  "name": "superthumbs",
+  "description": "Give superpowers to your thumbnails!",
+  "author": "Jens Törnell <jens.tornell@gmail.com>",
+  "version": "0.1",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}
