@@ -8,18 +8,18 @@ If you are using the [Kirby CLI](https://github.com/getkirby/cli) you can instal
 
 ```text
 $ cd path/to/kirby
-$ kirby plugin:install username/plugin-name
+$ kirby plugin:install jenstornell/superthumbs
 ```
 
 ### 2. Clone or download
 
-1. [Clone](https://github.com/username/plugin-name.git) or [download](https://github.com/username/plugin-name/archive/master.zip)  this repository.
-2. Unzip the archive if needed and rename the folder to `plugin-name`.
+1. [Clone](https://github.com/jenstornell/superthumbs.git) or [download](https://github.com/jenstornell/superthumbs/archive/master.zip)  this repository.
+2. Unzip the archive if needed and rename the folder to `superthumbs`.
 
 **Make sure that the plugin folder structure looks like this:**
 
 ```text
-site/plugins/plugin-name/
+site/plugins/superthumbs/
 ```
 
 ### 3. Git Submodule
@@ -28,5 +28,5 @@ If you know your way around Git, you can download this plugin as a submodule:
 
 ```text
 $ cd path/to/kirby
-$ git submodule add https://github.com/username/plugin-name site/plugins/plugin-name
+$ git submodule add https://github.com/jenstornell/superthumbs site/plugins/superthumbs
 ```
